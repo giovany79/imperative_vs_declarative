@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grupoestudio.lambdas.AnalistasAdminAgeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-12-02T18:08:29" hostname="MacBook-Pro-de-Giovany.local" time="0.009">
+  <properties/>
+  <testcase name="getFirstElementDeclarativeMethod" classname="com.grupoestudio.lambdas.AnalistasAdminAgeTest" time="0.009"/>
+  <testcase name="getFirstElementImperativeMethod" classname="com.grupoestudio.lambdas.AnalistasAdminAgeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
